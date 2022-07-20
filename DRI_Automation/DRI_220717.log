@@ -1,0 +1,84 @@
+2022-07-17 14:49:17,676-INFO-We are at Login Page and selecting SSO logging method
+2022-07-17 14:49:28,232-INFO-We are at Catalog Page now
+2022-07-17 14:49:31,323-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:49:31,324-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:49:36,973-INFO-Filtering the available assets by today's date which is 2022-07-17 14:49:36.973203
+2022-07-17 14:49:47,775-INFO-We have 6.0 number of bundle available to be reserved which are owned by bhatr8
+2022-07-17 14:49:47,873-INFO-We are going to reserve bundle ODBCK_crkrmfesx073_DS_Sustaining
+2022-07-17 14:49:57,963-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:50:05,552-INFO-We are at Catalog Page now
+2022-07-17 14:50:05,598-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:50:05,598-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:50:10,006-INFO-Filtering the available assets by today's date which is 2022-07-17 14:50:10.005769
+2022-07-17 14:50:19,372-INFO-We are going to reserve bundle ODGN1_DQAI021_DS_Sustaining
+2022-07-17 14:50:58,676-INFO-Bundle is not empty
+2022-07-17 14:51:14,218-INFO-We are at Catalog Page now
+2022-07-17 14:51:14,250-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:51:14,250-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:51:18,664-INFO-Filtering the available assets by today's date which is 2022-07-17 14:51:18.664029
+2022-07-17 14:51:27,982-INFO-We are going to reserve bundle OLCN1_DQAI075_DS_Sustain
+2022-07-17 14:51:37,642-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:51:44,964-INFO-We are at Catalog Page now
+2022-07-17 14:51:44,991-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:51:44,991-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:51:49,565-INFO-Filtering the available assets by today's date which is 2022-07-17 14:51:49.565773
+2022-07-17 14:51:58,912-INFO-We are going to reserve bundle RDFCK_CRKRMBESX143_DS_SUSTAINING
+2022-07-17 14:52:08,493-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:52:15,796-INFO-We are at Catalog Page now
+2022-07-17 14:52:15,843-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:52:15,843-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:52:20,234-INFO-Filtering the available assets by today's date which is 2022-07-17 14:52:20.234295
+2022-07-17 14:52:29,603-INFO-We are going to reserve bundle RFACK_RFJCK_CRKRMB119_DS_Sustaining
+2022-07-17 14:52:39,498-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:52:46,790-INFO-We are at Catalog Page now
+2022-07-17 14:52:46,818-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:52:46,818-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:52:51,216-INFO-Filtering the available assets by today's date which is 2022-07-17 14:52:51.216932
+2022-07-17 14:53:00,568-INFO-We are going to reserve bundle RP_Bundle_DS_Sustaining
+2022-07-17 14:53:09,817-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:53:17,172-INFO-We are at Catalog Page now
+2022-07-17 14:53:17,354-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:53:17,354-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:53:21,736-INFO-Filtering the available assets by today's date which is 2022-07-17 14:53:21.736105
+2022-07-17 14:57:44,499-INFO-We are at Login Page and selecting SSO logging method
+2022-07-17 14:57:54,437-INFO-We are at Catalog Page now
+2022-07-17 14:57:57,527-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:57:57,527-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:58:03,507-INFO-Filtering the available assets by today's date which is 2022-07-17 14:58:03.507542
+2022-07-17 14:58:13,498-INFO-We have 6.0 number of bundle available to be reserved which are owned by bhatr8
+2022-07-17 14:58:13,595-INFO-We are going to reserve bundle ODBCK_crkrmfesx073_DS_Sustaining
+2022-07-17 14:58:23,599-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 14:58:31,077-INFO-We are at Catalog Page now
+2022-07-17 14:58:31,127-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:58:31,128-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:58:37,121-INFO-Filtering the available assets by today's date which is 2022-07-17 14:58:37.121136
+2022-07-17 14:58:47,097-INFO-We are going to reserve bundle ODGN1_DQAI021_DS_Sustaining
+2022-07-17 14:59:27,129-INFO-Bundle is not empty
+2022-07-17 14:59:42,731-INFO-We are at Catalog Page now
+2022-07-17 14:59:42,787-INFO-Group Filter slider bar should be ON now
+2022-07-17 14:59:42,787-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 14:59:47,396-INFO-Filtering the available assets by today's date which is 2022-07-17 14:59:47.396815
+2022-07-17 14:59:56,748-INFO-We are going to reserve bundle OLCN1_DQAI075_DS_Sustain
+2022-07-17 15:00:05,941-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 15:00:13,258-INFO-We are at Catalog Page now
+2022-07-17 15:00:13,283-INFO-Group Filter slider bar should be ON now
+2022-07-17 15:00:13,283-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 15:00:17,682-INFO-Filtering the available assets by today's date which is 2022-07-17 15:00:17.682809
+2022-07-17 15:00:27,027-INFO-We are going to reserve bundle RDFCK_CRKRMBESX143_DS_SUSTAINING
+2022-07-17 15:00:36,785-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 15:00:44,153-INFO-We are at Catalog Page now
+2022-07-17 15:00:44,178-INFO-Group Filter slider bar should be ON now
+2022-07-17 15:00:44,178-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 15:00:48,608-INFO-Filtering the available assets by today's date which is 2022-07-17 15:00:48.608633
+2022-07-17 15:00:57,958-INFO-We are going to reserve bundle RFACK_RFJCK_CRKRMB119_DS_Sustaining
+2022-07-17 15:01:07,939-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 15:01:15,497-INFO-We are at Catalog Page now
+2022-07-17 15:01:15,535-INFO-Group Filter slider bar should be ON now
+2022-07-17 15:01:15,535-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 15:01:20,219-INFO-Filtering the available assets by today's date which is 2022-07-17 15:01:20.219057
+2022-07-17 15:01:29,734-INFO-We are going to reserve bundle RP_Bundle_DS_Sustaining
+2022-07-17 15:01:40,721-ERROR-Asset can not be reserved. It might be empty
+2022-07-17 15:01:48,221-INFO-We are at Catalog Page now
+2022-07-17 15:01:48,253-INFO-Group Filter slider bar should be ON now
+2022-07-17 15:01:48,253-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-17 15:01:53,620-INFO-Filtering the available assets by today's date which is 2022-07-17 15:01:53.620613
