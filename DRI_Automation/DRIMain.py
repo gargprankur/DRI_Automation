@@ -2,6 +2,11 @@ import time
 import datetime
 import logging
 import argparse
+import sys
+import pandas as pd
+from pretty_html_table import build_table
+
+
 
 """ Selenium packages imports"""
 from selenium.common import NoSuchElementException
@@ -13,12 +18,13 @@ from BaseClass import BaseClass
 """Below are Page Object classes of DRI Functionality"""
 from DRICatalog import DRICatalog
 from DRILoginPage import DRILoginPage
+from SendEMail import SendEmail
 
 """
 Developed By: Prankur Garg
 Date: 18th July 2022
 """
-
+sys.path.insert(0, ".")
 class DRIMain(BaseClass):
     def __init__(self):
         self._login_page = DRILoginPage(self.driver)
@@ -92,6 +98,7 @@ class DRIMain(BaseClass):
         time.sleep(5)
 
     def get_bundle_list(self):
+        bundle_status = {}
         bundle_name_list = self._dri_catalog.bundle_name_list_method()
         print(len(bundle_name_list))
 
@@ -104,8 +111,15 @@ class DRIMain(BaseClass):
             bundle_text = bundle.get_attribute('text')
             bundle_list_text.append(bundle_text)
 
+        bundle_status["bundle_name"] = bundle_list_text
+        bundle_status["status"] = ["Unreserved"]*int(length)
+        data_frame = pd.DataFrame(bundle_status)
+        output = build_table(data_frame, "blue_light" , font_size= "small")
+        #SendEmail(output)
+
         for bundle in bundle_list_text:
             self._logger.info(f"We are going to reserve bundle {bundle}")
+
             bundle_name = self._dri_catalog.bundle_name_filter_method()
             bundle_name.send_keys(bundle)
             bundle_name.send_keys(Keys.ENTER)
@@ -134,8 +148,10 @@ class DRIMain(BaseClass):
                         self._logger.error(f"Asset can not be reserved. It might be empty")
                     time.sleep(2)
                     back_catalog_button = self._dri_catalog.back_to_catalog_button_method()
-                    self.wait.until(expected_conditions.element_to_be_clickable(back_catalog_button[8]))
-                    back_catalog_button[8].click()
+                    self.wait.until(expected_conditions.element_to_be_clickable(back_catalog_button[1]))
+                    back_catalog_button[1].click()
+
+
 
 
                 except NoSuchElementException as ex:

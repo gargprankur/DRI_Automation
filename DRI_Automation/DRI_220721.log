@@ -1,0 +1,16 @@
+2022-07-21 16:20:19,294-INFO-We are at Login Page and selecting SSO logging method
+2022-07-21 16:21:10,983-INFO-We are at Catalog Page now
+2022-07-21 16:21:14,563-INFO-Group Filter slider bar should be ON now
+2022-07-21 16:21:14,563-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-21 16:21:20,977-INFO-Filtering the available assets by today's date which is 2022-07-21 16:21:20.977358
+2022-07-21 16:21:32,314-INFO-We have 5.0 number of bundle available to be reserved which are owned by bhatr8
+2022-07-21 16:21:40,643-INFO-We are going to reserve bundle ODBCK_crkrmfesx073_DS_Sustaining
+2022-07-21 16:22:00,391-ERROR-Asset can not be reserved. It might be empty
+2022-07-21 16:24:17,334-INFO-We are at Login Page and selecting SSO logging method
+2022-07-21 16:25:58,785-INFO-We are at Catalog Page now
+2022-07-21 16:26:07,558-INFO-Group Filter slider bar should be ON now
+2022-07-21 16:26:07,559-INFO-Filtering the owned by Column by name:- bhatr8
+2022-07-21 16:26:17,574-INFO-Filtering the available assets by today's date which is 2022-07-21 16:26:17.574400
+2022-07-21 16:26:28,742-INFO-We have 5.0 number of bundle available to be reserved which are owned by bhatr8
+2022-07-21 16:26:33,348-INFO-We are going to reserve bundle ODBCK_crkrmfesx073_DS_Sustaining
+2022-07-21 16:26:47,123-ERROR-Asset can not be reserved. It might be empty

@@ -25,7 +25,10 @@ class DRICatalog:
 
     #back_to_catalog_button = (By.XPATH, '//span[contains(text(), "Back to Catalog")]/parent::button[contains(@class, "mat-button")]/parent::div')
 
-    back_to_catalog_button = (By.XPATH, '//button')
+    #back_to_catalog_button = (By.XPATH, '//button')
+
+    back_to_catalog_button = (By.XPATH, '//*[contains(text() , "Back to Catalog")]/parent::button')
+
     start_date_reservation = (By.XPATH, '//input[@name = "qa-startdate-input"]')
 
     end_date_reservation = (By.XPATH, '//input[@name = "qa-enddate-input"]')
